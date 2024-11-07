@@ -1,6 +1,6 @@
 # fly.toml file generated for proxypoolss on 2021-02-15T13:21:25+08:00
 
-app = "example-proxypool"
+app = "proxypool-g1f2ew"
 
 [build]
   builtin = "go"
